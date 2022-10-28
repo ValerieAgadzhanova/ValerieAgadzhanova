@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Valerie!</h1>
-<h3 align="center">Junior Data Analyst</h3>
+<h1 align="left">Hi 👋, I'm Valerie!</h1>
+<h3 align="left">Junior Data Analyst</h3>
 
 </p>
 
