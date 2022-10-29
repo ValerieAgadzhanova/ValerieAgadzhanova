@@ -79,7 +79,8 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=ValerieAgadzhanova&&style=flat-square)  
   
 
 <br/>  
