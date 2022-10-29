@@ -3,7 +3,10 @@
 <a href="https://github.com/ValerieAgadzhanova" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
+<a href="https://github.com/ValerieAgadzhanova" target="_blank">
+<img src=https://img.shields.io/badge/Telegram?&style=for-the-badge&logo=Telegram&logoColor=26A5E4 alt=telegram style="margin-bottom: 5px;" />
+</a>  
+    
 
 
 
