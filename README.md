@@ -3,8 +3,9 @@
 <a href="https://github.com/ValerieAgadzhanova" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://t.me/ValerieAg" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white style="margin-bottom: 5px;"/>   
-
+</a>
 
 
 ### Junior Data Analyst 
