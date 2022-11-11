@@ -24,7 +24,7 @@
 
 ## Коротко обо мне 
 
-- 🌱 Мне 28, живу в г. Краснодар  
+- 🌱 Проживаю в г. Краснодар  
   
 
 - ❓ Нравится визуализировать данные  
@@ -46,6 +46,8 @@
 <a href="https://jupyter.org" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </a>
 <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+<a href=# target="_blank"><img src="https://img.shields.io/badge/Seaborn-047DA3?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
 <a href="https://plotly.com/python" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/>
 </a>                                    
