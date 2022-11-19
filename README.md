@@ -51,6 +51,8 @@
 </a>                                                                                                                                              
 <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white"/>
 </a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-19A974?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+</a>                                                                                                                                               
 <a href=# target="_blank"><img src="https://img.shields.io/badge/Seaborn-047DA3?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
 <a href="https://plotly.com/python" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/>
